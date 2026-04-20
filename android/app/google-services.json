@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286313080486",
+    "project_id": "saferide-dc8f1",
+    "storage_bucket": "saferide-dc8f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286313080486:android:82b8549fa80b4e8f2bf667",
+        "android_client_info": {
+          "package_name": "com.saferide.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-NbrXpaDsC7R4OGLK7ZirAjA_nPq2Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
